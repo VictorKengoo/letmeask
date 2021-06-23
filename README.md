@@ -91,10 +91,11 @@ This project is licensed under the MIT License.
     </td>
   </tr>
 </table>
-
+    <h1>Made with 💜 by Victor Kodama 👋🏽</h1>
+    <a href="https://www.linkedin.com/in/victor-kodama/" >
+        Entre em contato!	
+    </a>
 </div>
-
-Made with 💜 by Victor Kodama 👋🏽 [Entre em contato!](https://www.linkedin.com/in/victor-kodama/)
 
 [typescript]: https://www.typescriptlang.org/
 [reactjs]: https://reactjs.org
