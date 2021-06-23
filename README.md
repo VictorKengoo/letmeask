@@ -70,8 +70,31 @@ Remembering that you need to have a [Figma][figma] account to access it.
 ## 📝 License
 This project is licensed under the MIT License.
 
+<div align="center">
 
-Made with ❤️ by Victor Kodama 👋🏽 [Entre em contato!](https://www.linkedin.com/in/victor-kodama/)
+<table>
+  <tr align="center">
+    <td>Coded By</td><td>Instrutor</td>
+  </tr>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/VictorKengoo">
+        <img src="https://avatars2.githubusercontent.com/u/55894232?s=460&u=988d76189e00f291454c792d105a7147b0b23ee7&v=4" width 
+        ="100" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/diego3g">
+        <img src="https://avatars2.githubusercontent.com/u/2254731?v=4" width 
+        ="100" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+Made with 💜 by Victor Kodama 👋🏽 [Entre em contato!](https://www.linkedin.com/in/victor-kodama/)
 
 [typescript]: https://www.typescriptlang.org/
 [reactjs]: https://reactjs.org
