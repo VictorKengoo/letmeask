@@ -17,7 +17,7 @@
 	
   
   <a href="https://github.com/victorkengoo/letmeask/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/victorkengoo/letmeask?color=525dcb">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VictorKengoo/letmeask?color=525dcb">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=525dcb">
@@ -44,7 +44,7 @@ This project was developed using the following technologies:
 
 ```bash
 # Clone the project
-$ git clone https://github.com/victorkengoo/letmeask
+$ git clone https://github.com/VictorKengoo/letmeask
 
 # Access the folder
 $ cd letmeask
