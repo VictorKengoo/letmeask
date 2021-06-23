@@ -23,7 +23,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=525dcb">
    
    <a href="https://github.com/victorkengoo/letmeask/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/gmorae/letmeask?color=525dcb">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/victorkengoo/letmeask?color=525dcb">
   </a>
    
 </p>
