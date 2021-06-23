@@ -17,13 +17,13 @@
 	
   
   <a href="https://github.com/victorkengoo/letmeask/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/victorkengoo/letmeask?color=525dcb">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VictorKengoo/letmeask?color=525dcb">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=525dcb">
    
    <a href="https://github.com/victorkengoo/letmeask/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/gmorae/letmeask?color=525dcb">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/victorkengoo/letmeask?color=525dcb">
   </a>
    
 </p>
@@ -44,7 +44,7 @@ This project was developed using the following technologies:
 
 ```bash
 # Clone the project
-$ git clone https://github.com/victorkengoo/letmeask
+$ git clone https://github.com/VictorKengoo/letmeask
 
 # Access the folder
 $ cd letmeask
@@ -70,8 +70,32 @@ Remembering that you need to have a [Figma][figma] account to access it.
 ## 📝 License
 This project is licensed under the MIT License.
 
+<div align="center">
 
-Made with ❤️ by Victor Kodama 👋🏽 [Entre em contato!](https://www.linkedin.com/in/victor-kodama/)
+<table>
+  <tr align="center">
+    <td>Coded By</td><td>Instrutor</td>
+  </tr>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/VictorKengoo">
+        <img src="https://avatars2.githubusercontent.com/u/55894232?s=460&u=988d76189e00f291454c792d105a7147b0b23ee7&v=4" width 
+        ="100" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/diego3g">
+        <img src="https://avatars2.githubusercontent.com/u/2254731?v=4" width 
+        ="100" />
+      </a>
+    </td>
+  </tr>
+</table>
+    <h1>Made with 💜 by Victor Kodama 👋🏽</h1>
+    <a href="https://www.linkedin.com/in/victor-kodama/" >
+        Entre em contato!	
+    </a>
+</div>
 
 [typescript]: https://www.typescriptlang.org/
 [reactjs]: https://reactjs.org
