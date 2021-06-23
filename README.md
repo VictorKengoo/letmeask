@@ -16,7 +16,7 @@
   </a>
 	
   
-  <a href="https://github.com/victorkengoo/letmeask/commits/main">
+  <a href="https://github.com/victorkengoo/letmeask/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/victorkengoo/letmeask?color=525dcb">
   </a>
 
