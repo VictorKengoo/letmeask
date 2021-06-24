@@ -6,7 +6,6 @@ import illustrationImg from '../assets/images/illustration.svg'
 import logoImg from '../assets/images/logo.svg'
 
 import { Button } from '../components/Button/Button'
-import { AuthContext } from '../contexts/AuthContext'
 import { useAuth } from '../hooks/useAuth'
 import { database } from '../services/firebase'
 
@@ -20,7 +19,7 @@ export function NewRoom() {
   async function handleCreateRoom(event: FormEvent) {
     event.preventDefault()
 
-    if (newRoom.trim() == '') {
+    if (newRoom.trim() === '') {
       return
     }
 
